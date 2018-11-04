@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.top-part {
+    display: block;
+    margin: 0 auto;
+    height: 50%;
+    background: #0c0911;
+    padding: 150px;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.top-part p {
+    font-size: small;
+}
+
+.middle {
+    background: white;
+    padding: 10px 200px;
+    font-size: large;
+    text-align: center;
+    color: #0c0911;
+}
+
+.footer {
+    width: 1000px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+    background: white;
+    color: #0c0911;
+}
+.answer p{
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 250px;
+    text-align: center;
+}
